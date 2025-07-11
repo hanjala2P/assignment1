@@ -375,7 +375,8 @@ flex-direction: column;
     border:1px solid #D6DDED;
     font-family: inter;
     font-size: 20px;
-    text-indent: 32px;
+    text-indent: 7px;
+    padding: 20px;
 
 }
 .get-in-touch-btn{
@@ -389,7 +390,6 @@ flex-direction: column;
 }
 main div ::placeholder{
     font-size: 20px;
-    text-indent: 32px;
     color:rgba(0, 0, 0, 0.5);
     font-family: inter;
     text-align: start;
